@@ -1,0 +1,6 @@
+@GestorProductos_PresentationLayer_HostAddress = http://localhost:5268
+
+GET {{GestorProductos_PresentationLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

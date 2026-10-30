@@ -1,3 +1,11 @@
 <Solution>
-  <Project Path="Practico2/Practico2.csproj" />
+  <Folder Name="/BL/">
+    <Project Path="GestorProductos_BusinessLayer/GestorProductos_BusinessLayer.csproj" />
+  </Folder>
+  <Folder Name="/DAL/">
+    <Project Path="GestorProductos_DataAccessLayer/GestorProductos_DataAccessLayer.csproj" />
+  </Folder>
+  <Folder Name="/PL/">
+    <Project Path="GestorProductos_PresentationLayer/GestorProductos_PresentationLayer.csproj" />
+  </Folder>
 </Solution>
